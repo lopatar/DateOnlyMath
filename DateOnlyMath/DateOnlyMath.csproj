@@ -4,6 +4,14 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>DateOnlyMath</PackageId>
+        <Title>DateOnlyMath</Title>
+        <Authors>Jiří Lopatář</Authors>
+        <Description>Provides math extension methods for DateOnly </Description>
+        <Copyright>https://github.com/lopatar/DateOnlyMath</Copyright>
+        <RepositoryUrl>https://github.com/lopatar/DateOnlyMath</RepositoryUrl>
+        <PackageLicenseUrl>http://www.wtfpl.net/txt/copying/</PackageLicenseUrl>
+        <RepositoryType>Git</RepositoryType>
     </PropertyGroup>
-
 </Project>
