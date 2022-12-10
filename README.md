@@ -9,3 +9,6 @@ This package adds extension methods for the [DateOnly struct](https://learn.micr
 - Divide
 - BiggerThan
 - LowerThan
+
+# Installation
+[NuGet](https://www.nuget.org/packages/DateOnlyMath/)

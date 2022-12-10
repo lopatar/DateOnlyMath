@@ -11,7 +11,7 @@
         <Description>Provides math extension methods for DateOnly </Description>
         <Copyright>https://github.com/lopatar/DateOnlyMath</Copyright>
         <RepositoryUrl>https://github.com/lopatar/DateOnlyMath</RepositoryUrl>
-        <PackageLicenseUrl>http://www.wtfpl.net/txt/copying/</PackageLicenseUrl>
+        <PackageLicenseExpression>WTFPL</PackageLicenseExpression>
         <RepositoryType>Git</RepositoryType>
     </PropertyGroup>
 </Project>
